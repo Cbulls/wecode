@@ -1,6 +1,3 @@
-![Alt text](github.jpg)
-<img src="github.jpg" width="40%" height="30%" alt="github"></img>
-
 # 내가 사용한 Git 명령어
 =========================
 
