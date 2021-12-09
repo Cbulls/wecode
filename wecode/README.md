@@ -1,5 +1,4 @@
 # 내가 사용한 Git 명령어
-=========================
 
 1. git branch
 - git branch : branch 목록을 볼 수 있다
